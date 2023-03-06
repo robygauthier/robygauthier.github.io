@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: more
+nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: master and doctoral theses
+      permalink: /theses/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: science communication
+      permalink: /science_communication/
 ---

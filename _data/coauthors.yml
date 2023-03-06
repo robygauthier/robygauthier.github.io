@@ -5,4 +5,18 @@
 "Hall":
   - firstname: ["DS", "David S", "David S."]
     url: https://scholar.google.com/citations?user=RzAFZpcAAAAJ&hl=en
+
+"Bond":
+  - firstname: ["Toby"]
+    url: https://scholar.google.com/citations?user=kRoKOkUAAAAJ&hl=en
+
+"Song":
+  - firstname: ["Wentao"]
+    url: https://scholar.google.com/citations?user=u8Je0GAAAAAJ&hl=en
+
+"Eldesoky":
+  - firstname: ["Ahmed"]
+    url: https://scholar.google.com/citations?user=CAUFKNoAAAAJ&hl=en
+
+
     

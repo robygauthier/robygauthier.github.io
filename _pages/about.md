@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Battery Researcher. Postdoctoral Research Associate. Mechanical Engineering. Carnegie Mellon University.
+subtitle: Battery Researcher. Physicist. Postdoctoral Research Associate, Carnegie Mellon University.
 
 profile:
   align: right

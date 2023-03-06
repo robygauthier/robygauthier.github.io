@@ -7,7 +7,7 @@ nav: false
 nav_order: 5
 ---
 
-You can access my master and doctoral theses by following the links below.
+You can access my master's and doctoral theses by following the links below.
 
 ## Master Thesis
 

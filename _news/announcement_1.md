@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-22 15:59:00-0400
+date: 2022-11-07
 inline: true
 ---
 
-News #1
+I joined the [Venkat Viswanathan group](https://www.cmu.edu/me/venkatgroup/) at Carnegie Mellon Univeristy as a Post-doctoral fellow.

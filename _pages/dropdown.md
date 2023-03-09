@@ -1,13 +1,13 @@
 ---
 layout: page
-title: more
+title: More
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: master and doctoral theses
+    - title: Master and Doctoral Theses
       permalink: /theses/
     - title: divider
-    - title: science communication
+    - title: Science Communication
       permalink: /science_communication/
 ---

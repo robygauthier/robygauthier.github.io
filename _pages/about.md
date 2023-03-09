@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Battery Researcher. Physicist. Postdoctoral Research Associate, Carnegie Mellon University.
 

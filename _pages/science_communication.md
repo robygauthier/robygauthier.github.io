@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /science_communication/
-title: science communication
+title: Science Communication
 description:
 nav: false
 nav_order: 5

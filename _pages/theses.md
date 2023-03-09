@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /theses/
-title: master and doctoral theses
+title: Master and Doctoral Theses
 description:
 nav: false
 nav_order: 5

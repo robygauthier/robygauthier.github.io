@@ -35,6 +35,11 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Postdoctoral Fellow
+      institution: Viswanathan Research group. Carnegie Mellon University, Pittsburgh, PA
+      year: 2022-now
+      description:
+        - Experimental and theoretical lithium-ion battery researcher of electrolyte degradation and properties. 
     - title: Research Assistant
       institution: Obrovac Research group. Dalhousie University, Halifax, Canada
       year: 2021-2022
@@ -146,6 +151,7 @@
         - Experienced practitioner in Li-ion battery failure analysis including modeling state of health versus cycle number and time, dV/dQ analysis and data fitting
         - Fitting amorphous and crystalline phase contributions in XRD patterns
         - Density functional theory to predict reduction potentials and Gibbs free energy of reactions
+        - Electrolyte property prediction (density, viscosity, dielectric constant, etc.) using classical molecular dynamics
         - Reporting data to industrial partners (Tesla, Novonix)
 
     - title: Collaborations
@@ -154,12 +160,12 @@
 
     - title: Computational Skills
       items: 
-        - "Simulation: Gaussian. Abinit [Beginner]"
-        - "Languages: Matlab, LaTeX, Python [Beginner]"
+        - "Simulation: Gaussian, Gpaw, Psi4, Gromacs, Abinit, VASP"
+        - "Languages: Matlab, LaTeX, Python"
 
     - title: Special Training and Classes
       items:  
-        - "[2019] NMR spectrometer training"
+        - "[2023] NMR spectrometer training"
         - "[2019] ACENET & Compute Canada training"
         - "[2019] Introductory Organic Chemistry [Audit]"
         - "[2018] Introduction to computational chemistry using Abinit [Audit]"

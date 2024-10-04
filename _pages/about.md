@@ -27,7 +27,7 @@ I obtained my Ph.D. at Dalhousie University, where I worked alongside [Dr. Jeff 
  
 After my Ph.D., I joined the [Mark Obrovac lab](https://www.dal.ca/sites/obrovac.html) as a research assistant, where I studied anode materials for lithium-ion batteries. That's where I learned additional experimental techniques such as XRD and SEM.
  
-For my post-doctoral work, in 2022, I joined the [Venkat Viswanathan Group](https://eeg.engin.umich.edu) (now at the University of Michigan) and later the [Jay Whitacre Research Group](https://www.andrew.cmu.edu/user/whitacre/index.html) at [Carnegie Mellon University](https://www.meche.engineering.cmu.edu) where I developed nuclear magnetic resonance, electrochemical, and computational methods for Lithium-ion cell monitoring, mitigation, and prediction.
+For my post-doctoral work, I joined the [Venkat Viswanathan Group](https://eeg.engin.umich.edu) (now at the University of Michigan) and later the [Jay Whitacre Research Group](https://www.andrew.cmu.edu/user/whitacre/index.html) at [Carnegie Mellon University](https://www.meche.engineering.cmu.edu) where I developed nuclear magnetic resonance, electrochemical, and computational methods for Lithium-ion cell monitoring, mitigation, and prediction.
 
 I am currently a research scientist working with [Shawn Litster](https://www.cmu.edu/me/tpes/) to improve performance of fuel cells.
  

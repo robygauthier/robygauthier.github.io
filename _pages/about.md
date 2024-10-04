@@ -23,7 +23,7 @@ Welcome to my website! I am a research scientist in the [Mechanical Engineering 
 
 I am a proud French-Canadian. 
  
-I obtained my Ph.D. at Dalhousie University, where I worked alongside [Dr. Jeff Dahn](https://www.dal.ca/diff/dahn.html). During this work, I studied the impact of new electrolyte additives and different state of charge range on the cycling performance and properties of lithium cells. I also learned the basics of density functional theory (DFT) and nuclear magnetic resonance (NMR). Prior to that, I got my M.Sc. at Université de Moncton on the theoretical modeling of the Casimir effect.
+I obtained my Ph.D. at Dalhousie University, where I worked alongside [Jeff Dahn](https://www.dal.ca/diff/dahn.html). During this work, I studied the impact of new electrolyte additives and different state of charge range on the cycling performance and properties of lithium cells. I also learned the basics of density functional theory (DFT) and nuclear magnetic resonance (NMR). Prior to that, I got my M.Sc. at Université de Moncton on the theoretical modeling of the Casimir effect.
  
 After my Ph.D., I joined the [Mark Obrovac lab](https://www.dal.ca/sites/obrovac.html) as a research assistant, where I studied anode materials for lithium-ion batteries. That's where I learned additional experimental techniques such as XRD and SEM.
  

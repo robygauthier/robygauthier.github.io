@@ -31,4 +31,4 @@ For my post-doctoral work, in 2022, I joined the [Venkat Viswanathan group](http
 
 I am currently a research scientist working with [Shawn Litster](https://www.cmu.edu/me/tpes/) to improve performance of fuel cells.
  
-Aside from battery research, I am also passionate about all fields of science, science communication, and the arts.
+Aside from research, I am also passionate about all fields of science, science communication, and the arts.

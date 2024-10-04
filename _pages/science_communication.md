@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /science_communication/
 title: Science Communication
@@ -15,4 +15,4 @@ I believe that research is not fully done until it is communicated to the public
 
 <a href="https://shagunsworld.notion.site/Introduction-to-Lithium-Ion-Batteries-94bdc6bbc05b4df899780d4c4683540c">
   <img src="https://raw.githubusercontent.com/robygauthier/robygauthier.github.io/master/assets/img/li-ion_battery.png" width="600" />
-</a>
+</a> -->

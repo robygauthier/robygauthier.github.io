@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Scientist, Mechanical Engineering, Carnegie Mellon University.
+subtitle: Research Scientist
 
 profile:
   align: right

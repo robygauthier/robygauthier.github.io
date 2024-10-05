@@ -8,6 +8,6 @@ children:
     - title: Master and Doctoral Theses
       permalink: /theses/
     - title: divider
-    - title: Teaching
-      permalink: /teaching/
+    - title: Blog
+      permalink: /blog/
 ---

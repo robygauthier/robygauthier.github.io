@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: false
-nav_order: 3
+nav_order: 5
 ---
 
 I believe that research is not fully done until it is communicated to the public at scale. In that mindset, here is some of my lecture and science communication blog.

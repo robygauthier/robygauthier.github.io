@@ -47,10 +47,17 @@ layout: default
           {%- endif %}
 
           <!-- Selected papers -->
-          {% if page.selected_papers -%}
+          <!-- {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
             {%- include selected_papers.html %}
-          {%- endif %}
+          {%- endif %} -->
+
+          <!-- Selected papers -->
+          {% if page.selected_papers %}
+          <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
+          {% assign sorted_papers = page.selected_papers | sort: 'year' | reverse %}
+          {% include selected_papers.html papers=sorted_papers %}
+          {% endif %}
 
           <!-- Social -->
           {%- if page.social %}

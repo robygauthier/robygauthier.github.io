@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Welcome to my website! I am a research scientist in the [Mechanical Engineering Department at Carnegie Mellon University.](https://www.meche.engineering.cmu.edu)
 
-I am a proud French-Canadian <img src="[image.jpg](https://www.canada.ca/content/dam/pch/images/services/flags-francophonie/drapeau_franco_n_b-francophonie_n_b_flag.jpg)" alt="Flag" width="5">.
+I am a proud French-Canadian <img src="[image.jpg](https://www.canada.ca/content/dam/pch/images/services/flags-francophonie/drapeau_franco_n_b-francophonie_n_b_flag.jpg)" alt="Flag" width="50">.
  
 I obtained my Ph.D. at Dalhousie University, where I worked alongside [Jeff Dahn](https://www.dal.ca/diff/dahn.html). During this work, I studied the impact of new electrolyte additives and different state of charge range on the cycling performance and properties of lithium cells. I also learned the basics of density functional theory (DFT) and nuclear magnetic resonance (NMR). Prior to that, I got my M.Sc. at Université de Moncton on the theoretical modeling of the Casimir effect.
  

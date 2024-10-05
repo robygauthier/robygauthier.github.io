@@ -8,6 +8,6 @@ children:
     - title: Master and Doctoral Theses
       permalink: /theses/
     - title: divider
-    - title: Science Communication
-      permalink: /science_communication/
+    - title: Teaching
+      permalink: /teaching/
 ---

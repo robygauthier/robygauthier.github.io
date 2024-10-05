@@ -7,9 +7,19 @@ nav: false
 nav_order: 5
 ---
 
-You can access my master's and doctoral theses by following the links below.
+You can access my doctoral and master's theses by following the links below.
 
 ----
+
+## Doctoral Thesis
+
+<a href="https://dalspace.library.dal.ca/bitstream/handle/10222/80722/RobyGauthier2021.pdf?sequence=1&isAllowed=y">
+  <img src="https://raw.githubusercontent.com/robygauthier/robygauthier.github.io/master/assets/img/doctorate.png" width="400" />
+</a>
+
+Understanding and Preventing Lifetime Failure in Lithium-Ion Batteries.
+
+---
 
 ## Master Thesis
 
@@ -19,12 +29,6 @@ You can access my master's and doctoral theses by following the links below.
 
 Effet Casimir, pour des plaques d'aluminium d'épaisseur finie, calculé avec la méthode de pression de radiation.
 
----
 
-## Doctoral Thesis
 
-<a href="https://dalspace.library.dal.ca/bitstream/handle/10222/80722/RobyGauthier2021.pdf?sequence=1&isAllowed=y">
-  <img src="https://raw.githubusercontent.com/robygauthier/robygauthier.github.io/master/assets/img/doctorate.png" width="400" />
-</a>
 
-Understanding and Preventing Lifetime Failure in Lithium-Ion Batteries.

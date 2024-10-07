@@ -18,5 +18,19 @@
   - firstname: ["Ahmed"]
     url: https://scholar.google.com/citations?user=CAUFKNoAAAAJ&hl=en
 
+"Gauthier":
+  - firstname: ["Roby", "R"]
+    url: https://scholar.google.com/citations?user=Tv6LOuUAAAAJ
 
+"Gauthier":
+  - firstname: ["Roby"]
+    url: https://scholar.google.com/citations?user=Tv6LOuUAAAAJ
+
+"Viswanathan":
+  - firstname: ["Venkatasubramanian", "Venkat", "V"]
+    url: https://scholar.google.com/citations?hl=en&user=4g7P1w4AAAAJ
+
+"Whitacre":
+  - firstname: ["Jay", "Jay F", "JF"]
+    url: https://scholar.google.com/citations?user=NIaQAAUAAAAJ&hl=en
     

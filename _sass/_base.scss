@@ -4,6 +4,14 @@
 
 // Typography
 
+body {
+  font-family: "Open Sans ", sans-serif;
+}
+
+p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong, table, a, blockquote, .caption, .card-title, .citation, .address, .navbar, .dropdown-item, footer, .cv, .repo, .projects, .publications, pre, code {
+  font-family: inherit;
+}
+
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }

@@ -12,6 +12,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: electrochemistry, roby-gauthier, carnegie-mellon, battery, lithium-ion-batteries, casimir-effect, fuel-cells
 
+
+
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -106,7 +108,7 @@ contact_note: >
 google_analytics: G-6TX3WKLFPD  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: google-site-verification=0jJEiwveRaLt5uF9gnti0E2wVHK4kuWW9umLobdkcm0 #(Google Search Console)
+google_site_verification: 0jJEiwveRaLt5uF9gnti0E2wVHK4kuWW9umLobdkcm0 #(Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------

@@ -106,7 +106,7 @@ contact_note: >
 google_analytics: G-6TX3WKLFPD  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification: google-site-verification=0jJEiwveRaLt5uF9gnti0E2wVHK4kuWW9umLobdkcm0 #(Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -226,7 +226,6 @@ defaults:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ['robots.txt']
   uglifier_args:
     harmony: true
 

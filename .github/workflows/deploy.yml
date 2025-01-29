@@ -37,6 +37,10 @@ jobs:
         fi
         echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
     - name: Deploy website 
-      run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
-                    --src ${{ steps.setup.outputs.SRC_BRANCH }} 
-                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+      run:  
+        git checkout master 
+        yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
+                      --src ${{ steps.setup.outputs.SRC_BRANCH }} 
+                      --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+
+                    

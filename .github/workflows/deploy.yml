@@ -39,8 +39,6 @@ jobs:
     - name: Deploy website 
       run:  
         git checkout master 
-        yes | bash bin/deploy --yes ${{ steps.setup.outputs.NO_PUSH }}
-                      --src ${{ steps.setup.outputs.SRC_BRANCH }} 
-                      --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+        yes | bash bin/deploy --src master --deploy gh-pages
 
                     

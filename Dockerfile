@@ -21,5 +21,4 @@ RUN gem install jekyll bundler
 RUN mkdir /srv/jekyll
 ADD Gemfile /srv/jekyll
 WORKDIR /srv/jekyll
-RUN gem install bundler -v 2.4.22
 RUN bundle install

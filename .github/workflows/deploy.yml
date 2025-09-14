@@ -39,7 +39,6 @@ jobs:
     - name: Deploy website 
       run:  
         # git checkout master 
-        # yes | bash bin/deploy --src master --deploy gh-pages
-        git checkout master && bash -x bin/deploy --src master --deploy gh-pages
+        y | bash bin/deploy --src master --deploy gh-pages
 
                     

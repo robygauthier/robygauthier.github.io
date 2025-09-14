@@ -16,7 +16,6 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
-    gem "uri", "~> 0.10.1"
 end
 group :other_plugins do
     gem 'feedjira'

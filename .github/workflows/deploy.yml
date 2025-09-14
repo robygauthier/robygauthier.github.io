@@ -36,9 +36,14 @@ jobs:
           echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
         fi
         echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
-    - name: Deploy website 
-      run:  
-        # git checkout master 
-        y | bash bin/deploy --src master --deploy gh-pages
+    # - name: Deploy website 
+    #   run:  
+    #     git checkout master 
+    #     yes | bash bin/deploy --src master --deploy gh-pages
+    - name: Deploy website
+      run:
+        git checkout master
+        echo y | bash bin/deploy --src master --deploy gh-pages
+
 
                     

@@ -38,8 +38,8 @@ jobs:
         echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
     - name: Deploy website 
       run:  
-        git checkout master 
+        # git checkout master 
         # yes | bash bin/deploy --src master --deploy gh-pages
-        bash bin/deploy --src master --deploy gh-pages
+        git checkout master && bash bin/deploy --src master --deploy gh-pages
 
                     

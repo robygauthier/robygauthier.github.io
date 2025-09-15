@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is the process behind picking a specific cathode material for lithium-ion batteries?
-date: 2023-03-08 01:02:00
+date: 2023-03-08
 description:
 tags: battery
 categories: battery

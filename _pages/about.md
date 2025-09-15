@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Welcome to my website! I am a research scientist in the [Mechanical Engineering Department at Carnegie Mellon University.](https://www.meche.engineering.cmu.edu)
 
-I am a proud French-Canadian. I grew up in a small town in the heart of the Appalachians (New Brunswick) <img src="https://raw.githubusercontent.com/robygauthier/robygauthier.github.io/master/assets/img/Flag_of_New_Brunswick.svg" width="60" style="margin-left: 10px;" />
+I am a proud French-Canadian <img src="https://raw.githubusercontent.com/robygauthier/robygauthier.github.io/master/assets/img/Flag_of_New_Brunswick.svg" width="60" style="margin-left: 10px;" />
  
 I obtained my Ph.D. at Dalhousie University, where I worked alongside [Jeff Dahn](https://www.dal.ca/diff/dahn.html). During this work, I studied the impact of new electrolyte additives and different state of charge range on the cycling performance and properties of lithium cells. I also learned the basics of density functional theory (DFT) and nuclear magnetic resonance (NMR). Prior to that, I got my M.Sc. at Université de Moncton on the theoretical modeling of the Casimir effect.
  

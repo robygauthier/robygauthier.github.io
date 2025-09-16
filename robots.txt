@@ -1,1 +1,7 @@
-User-agent: * Allow: / Sitemap: https://robygauthier.github.io/sitemap.xml
+---
+permalink: /robots.txt
+---
+User-agent: *
+Allow: /
+
+Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml

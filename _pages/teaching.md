@@ -12,7 +12,7 @@ I believe that research is not fully done until it is communicated to the public
 ---
 
 ### Electrolyte Transport and Stability
-CMU - 24-642 / 06-644: lectrochemical Decarbonization Technologies
+CMU - 24-642 / 06-644: Electrochemical Decarbonization Technologies
 
 <a href="https://robygauthier.github.io/assets/pdf/Electrochemical Decarbonization Technologies.pdf">
   <img src="https://raw.githubusercontent.com/robygauthier/robygauthier.github.io/master/assets/img/sealer.jpeg" width="600" />

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Scientist - Experimental Electrochemistry
+subtitle: Research Scientist
 
 profile:
   align: right
